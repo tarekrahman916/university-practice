@@ -1,0 +1,85 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\.6eb2d6e66dab338d7defd496375c358f47893bea-audit.json",
+    "files": [
+        {
+            "date": 1685860977241,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-04-06-12-success.log",
+            "hash": "5a86729ffcd0ef2fbe8c1087618580576d6ae55b83601090f4cf6f468be301f3"
+        },
+        {
+            "date": 1685862928895,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-04-06-13-success.log",
+            "hash": "6c9f8615e9c62cae81fb5f575f45eb5dd5ec27dc2244409346df1501aeb8ed18"
+        },
+        {
+            "date": 1685872212054,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-04-06-15-success.log",
+            "hash": "ddae0550b7ecb62cafdaa46534738732b92e03da2f5560ab5bf1ee632b0a0d02"
+        },
+        {
+            "date": 1685872832772,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-04-06-16-success.log",
+            "hash": "c3660f4d0332993a51da36b347e5627e693822aa55745d5ccafe0bcd2bf17485"
+        },
+        {
+            "date": 1685876493094,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-04-06-17-success.log",
+            "hash": "8a5b1c85861e5df9b69c1a6f4de86b9047500a5534970a8b70023eb2310c7147"
+        },
+        {
+            "date": 1685880161534,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-04-06-18-success.log",
+            "hash": "f4263780b0d0460180dc4609b2bd71a100faa784ec877e39fa58f1fc522c4aff"
+        },
+        {
+            "date": 1685883850081,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-04-06-19-success.log",
+            "hash": "41b0823f07fba2463d3ef275374050b68037d117f472cdca4e53a699a8d85ec3"
+        },
+        {
+            "date": 1685887887243,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-04-06-20-success.log",
+            "hash": "64891bd38678fea3cd2a0abb2ee05b208fb3fb267c6471987061c8e641c7b373"
+        },
+        {
+            "date": 1686135841384,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-07-06-17-success.log",
+            "hash": "c452b56cee70f909be08d52872c920d6ccf831493539595b036480fa6305a281"
+        },
+        {
+            "date": 1686139354572,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-07-06-18-success.log",
+            "hash": "8ceec81f2cf73c90102d2fc3f8679727ff065ecb6db3296ae6929b68e07f19b0"
+        },
+        {
+            "date": 1686142912150,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-07-06-19-success.log",
+            "hash": "a387b931796293bacbcf00aac400995f4c61741a8f34c9f9b437af12a9e2af63"
+        },
+        {
+            "date": 1686422975441,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-11-06-00-success.log",
+            "hash": "d5ddd95efb6f9633a73a0b526d5faebdb5a5973a295105a620bda779d076d07f"
+        },
+        {
+            "date": 1686423820580,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-11-06-01-success.log",
+            "hash": "6073383fc6fd92fcabf369ea6e09b668e9a98d6ee491d2104161f95d4fa9781d"
+        },
+        {
+            "date": 1686460304166,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-11-06-11-success.log",
+            "hash": "5343fac3e2b14e30dcaca4caa0a3578c58a84e0d127581fd01ffa36e558f5daf"
+        },
+        {
+            "date": 1686463262068,
+            "name": "F:\\Next-Level-Programming_Hero\\university-practice\\log\\winston\\errors\\phu-2023-11-06-12-success.log",
+            "hash": "08c1b021dd87eefc914d06d480f88cf2fb0abb6de66175676364e02332759f71"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,17 +1,19 @@
-/* eslint-disable no-console */
+// /* eslint-disable no-console */
 import mongoose from 'mongoose'
 import app from './app'
 import config from './config'
+import { logger, errorlogger } from './shared/logger'
 
 async function dbConnect() {
   try {
     await mongoose.connect(config.databaseUrl as string)
-    console.log('Database connected')
+    logger.info('Database connected')
+
     app.listen(config.port, () => {
-      console.log(`Application is listening on port ${config.port}`)
+      logger.info(`Application is listening on port ${config.port}`)
     })
   } catch (error) {
-    console.log('Failed to connect database', error)
+    errorlogger.error('Failed to connect database', error)
   }
 }
 

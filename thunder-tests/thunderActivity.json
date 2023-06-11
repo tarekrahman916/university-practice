@@ -8,12 +8,12 @@
     "method": "POST",
     "sortNum": 0,
     "created": "2023-06-03T11:28:35.528Z",
-    "modified": "2023-06-03T11:36:40.084Z",
+    "modified": "2023-06-04T12:09:14.935Z",
     "headers": [],
     "params": [],
     "body": {
       "type": "json",
-      "raw": "{\n  \"id\":\"999\",\n  \"role\":\"student\",\n  \"password\":\"1234\"\n}",
+      "raw": "{\n  \"role\": \"student\"\n}",
       "form": []
     },
     "tests": []

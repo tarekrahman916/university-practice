@@ -1,0 +1,19 @@
+{
+  level: 'error',
+  message: 'Failed to connect database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.',
+  stack: 'MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n' +
+    '    at _createMongoClient (F:\\Next-Level-Programming_Hero\\university-practice\\node_modules\\mongoose\\lib\\connection.js:805:11)\n' +
+    '    at NativeConnection.openUri (F:\\Next-Level-Programming_Hero\\university-practice\\node_modules\\mongoose\\lib\\connection.js:742:29)\n' +
+    '    at Mongoose.connect (F:\\Next-Level-Programming_Hero\\university-practice\\node_modules\\mongoose\\lib\\index.js:406:15)\n' +
+    '    at F:\\Next-Level-Programming_Hero\\university-practice\\src\\server.ts:9:20\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at F:\\Next-Level-Programming_Hero\\university-practice\\src\\server.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (F:\\Next-Level-Programming_Hero\\university-practice\\src\\server.ts:4:12)\n' +
+    '    at dbConnect (F:\\Next-Level-Programming_Hero\\university-practice\\src\\server.ts:21:12)\n' +
+    '    at Object.<anonymous> (F:\\Next-Level-Programming_Hero\\university-practice\\src\\server.ts:19:1)',
+  label: 'PH',
+  timestamp: '2023-06-04T06:44:01.936Z'
+}
+Sun Jun 04 2023 12:50:23} [PH] error: Failed to connect database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Sun Jun 04 2023 12:51:39} [PH] error: Failed to connect database Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
